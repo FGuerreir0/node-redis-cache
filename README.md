@@ -9,7 +9,7 @@ Install dependencies
 ```bash
 npm i 
 ```
-This repo already has redis installed but if you need to install in one of your project use check: [Redis Documentation](https://redis.io/topics/quickstart)
+This repo already has redis installed but if you need to install in one of your project check: [Redis Documentation](https://redis.io/topics/quickstart)
 
 ## Getting Started
 
